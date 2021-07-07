@@ -1,0 +1,13 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+theme697-fitness-store.myshopify.com	TRUE	/	FALSE	1999999999	_shopify_country	Benin
+theme697-fitness-store.myshopify.com	TRUE	/	FALSE	1999999999	_landing_page	%2F
+theme697-fitness-store.myshopify.com	TRUE	/	FALSE	1999999999	_secure_session_id	0be3899fa710c6f041205e8158854692
+theme697-fitness-store.myshopify.com	TRUE	/	FALSE	1999999999	cart_sig	a293e5efa2ec0b5244f00ba44b399f47
+theme697-fitness-store.myshopify.com	TRUE	/	FALSE	1999999999	cart_currency	USD
+theme697-fitness-store.myshopify.com	TRUE	/	FALSE	1999999999	_y	9a781a57-014d-4ae7-9697-a8e03f6b1f0a
+theme697-fitness-store.myshopify.com	TRUE	/	FALSE	1999999999	_s	38e25d9b-ba73-46d6-9a04-b116036c87b5
+theme697-fitness-store.myshopify.com	TRUE	/	FALSE	1999999999	_shopify_y	9a781a57-014d-4ae7-9697-a8e03f6b1f0a
+theme697-fitness-store.myshopify.com	TRUE	/	FALSE	1999999999	_shopify_s	38e25d9b-ba73-46d6-9a04-b116036c87b5
+theme697-fitness-store.myshopify.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+
